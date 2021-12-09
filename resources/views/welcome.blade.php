@@ -15,15 +15,13 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6 m-auto">
-                <div class="card  mt-3" ">
-                
-                   <div class="card-header " style="min-height: 80px ; background-color:#8E44AD ;"></div>
+                <div class="card  mt-3">               
+                   <div class="card-header" style="min-height: 80px; background-color: #8E44AD;"></div>
                    <div class="card-body">
                        <h4 class="text-center">Mahfuzur Rahman</h4>
                        <p class="information mt-3 text-justify">I'm doing this as a way to practice my design skills,explore different styles and have fun.I'm fully aware this challenge doesn't pose my real problem to solve,That's why i'm looking for criticism and feedback ,not just likes </p>
                    </div>
-                   <div class="card-footer " style="min-height: 80px ; background-color:#8E44AD ;"></div>
-
+                   <div class="card-footer" style="min-height: 80px; background-color: #8E44AD;"></div>
             </div>
         </div>
     </div>
